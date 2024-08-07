@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    💬 Feel free to ask me about <strong>HTML, CSS, JavaScript</strong>... or anything <a href="https://github.com/amineadded/amineadded">here</a>.
+    💬 I'm knowledgeable in <strong>HTML, CSS, JavaScript</strong> and more. Feel free to reach out on <a href="https://github.com/amineadded/amineadded">GitHub</a> or <a href="https://www.facebook.com/profile.php?id=100074092489084">Facebook</a>.
 </div>
 
 <div align="center"> 
@@ -29,4 +29,5 @@
 
 <br/>
 <hr/>
+
 
