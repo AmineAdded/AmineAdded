@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/g3XdJKF.png)
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 )
 <h1 align="center">Hello 👋, I'm Amine Added</h1>
 <h3 align="center">A passionate IT student and developer from Tunisia</h3>
