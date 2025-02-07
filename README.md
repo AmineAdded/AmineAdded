@@ -36,7 +36,7 @@ _____________|','   ///_/-------------/   |
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git,matlab,linux,cpp,c,python,javascript,php,java" alt="Skills"/>
+ <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git,matlab,linux,cpp,c,python,javascript,php,java,laravel,vuejs3" alt="Skills"/>
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amineadded&show_icons=true&locale=en&layout=compact" alt="amineadded" /></p>
