@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+%26+Web+Enthusiast;Building+Digital+Experiences;From+Tunisia+🇹🇳)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+%26+Web+Enthusiast;Building+Digital+Experiences;From+Tunisia)
   
   [![Profile Views](https://komarev.com/ghpvc/?username=amineadded&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/amineadded)
   
