@@ -101,8 +101,20 @@ const amine = {
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+### 💭 Quote of the Day
   
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=amineadded&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amineadded&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
