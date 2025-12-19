@@ -36,8 +36,13 @@ _____________|','   ///_/-------------/   |
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git,linux,matlab,c,cpp,python,javascript,php,java,laravel,vuejs,spring,mysql,mongodb,angular,flutter,kotlin,firebase,flask,chartjs,jira,canva" alt="Skills"/>
-  
+ <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git,linux,matlab,c,cpp,python,javascript,php,java,laravel,vuejs,spring,mysql,mongodb,angular,flutter,kotlin,firebase,flask,chartjs" />
+ <p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge&logo=talend&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amineadded&show_icons=true&locale=en&layout=compact" alt="amineadded" /></p>
 
