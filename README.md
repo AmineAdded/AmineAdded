@@ -210,6 +210,63 @@ Coming soon! I'm working on exciting projects that will be showcased here.
 
 ---
 
+## 🎮 Let's Play Together!
+
+<div align="center">
+
+### Challenge Me in These Games!
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://rockpaperscissors.chagpt.hu/?name=amineadded">
+        <img src="https://img.shields.io/badge/🪨📄✂️-Rock%20Paper%20Scissors-FF6B6B?style=for-the-badge" alt="Rock Paper Scissors"/>
+      </a>
+      <br><sub>Classic game of strategy!</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://tic-tac-toe-game.chagpt.hu/?name=amineadded">
+        <img src="https://img.shields.io/badge/⭕❌-Tic%20Tac%20Toe-4ECDC4?style=for-the-badge" alt="Tic Tac Toe"/>
+      </a>
+      <br><sub>Test your logic!</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://guessthenumber.chagpt.hu/?name=amineadded">
+        <img src="https://img.shields.io/badge/🔢-Guess%20The%20Number-95E1D3?style=for-the-badge" alt="Guess The Number"/>
+      </a>
+      <br><sub>Can you guess right?</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://pokemon-battler.chagpt.hu/?name=amineadded">
+        <img src="https://img.shields.io/badge/⚔️-Pokemon%20Battle-FFCA3A?style=for-the-badge" alt="Pokemon Battle"/>
+      </a>
+      <br><sub>Gotta catch 'em all!</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://memory-game.chagpt.hu/?name=amineadded">
+        <img src="https://img.shields.io/badge/🧠-Memory%20Game-8AC926?style=for-the-badge" alt="Memory Game"/>
+      </a>
+      <br><sub>Train your memory!</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://hangman.chagpt.hu/?name=amineadded">
+        <img src="https://img.shields.io/badge/🎯-Hangman-FF595E?style=for-the-badge" alt="Hangman"/>
+      </a>
+      <br><sub>Word challenge!</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**🏆 Think you can beat me? Click on any game above and let's play!**
+
+</div>
+
+---
+
 ## 💭 Daily Inspiration
 
 <div align="center">
