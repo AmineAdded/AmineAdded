@@ -210,58 +210,62 @@ Coming soon! I'm working on exciting projects that will be showcased here.
 
 ---
 
-## 🎮 Let's Play Together!
+## 🎮 Interactive Games - Play Now!
 
 <div align="center">
 
-### Challenge Me in These Games!
+### 🎯 Click to Play These Interactive Games!
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://rockpaperscissors.chagpt.hu/?name=amineadded">
-        <img src="https://img.shields.io/badge/🪨📄✂️-Rock%20Paper%20Scissors-FF6B6B?style=for-the-badge" alt="Rock Paper Scissors"/>
+    <td align="center" width="50%">
+      <a href="https://codepen.io/pen?template=xxQZdzP">
+        <img src="https://img.shields.io/badge/🪨📄✂️-Rock%20Paper%20Scissors-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Rock Paper Scissors"/>
       </a>
-      <br><sub>Classic game of strategy!</sub>
+      <br><sub><b>Play the classic hand game!</b></sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://tic-tac-toe-game.chagpt.hu/?name=amineadded">
-        <img src="https://img.shields.io/badge/⭕❌-Tic%20Tac%20Toe-4ECDC4?style=for-the-badge" alt="Tic Tac Toe"/>
+    <td align="center" width="50%">
+      <a href="https://codepen.io/pen?template=MWRaZeP">
+        <img src="https://img.shields.io/badge/⭕❌-Tic%20Tac%20Toe-4ECDC4?style=for-the-badge&logo=gamepad&logoColor=white" alt="Tic Tac Toe"/>
       </a>
-      <br><sub>Test your logic!</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://guessthenumber.chagpt.hu/?name=amineadded">
-        <img src="https://img.shields.io/badge/🔢-Guess%20The%20Number-95E1D3?style=for-the-badge" alt="Guess The Number"/>
-      </a>
-      <br><sub>Can you guess right?</sub>
+      <br><sub><b>Strategic 3x3 grid game!</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://pokemon-battler.chagpt.hu/?name=amineadded">
-        <img src="https://img.shields.io/badge/⚔️-Pokemon%20Battle-FFCA3A?style=for-the-badge" alt="Pokemon Battle"/>
+    <td align="center" width="50%">
+      <a href="https://codepen.io/pen?template=KKOqReN">
+        <img src="https://img.shields.io/badge/🐍-Snake%20Game-8AC926?style=for-the-badge&logo=gamepad&logoColor=white" alt="Snake Game"/>
       </a>
-      <br><sub>Gotta catch 'em all!</sub>
+      <br><sub><b>Classic arcade snake!</b></sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://memory-game.chagpt.hu/?name=amineadded">
-        <img src="https://img.shields.io/badge/🧠-Memory%20Game-8AC926?style=for-the-badge" alt="Memory Game"/>
+    <td align="center" width="50%">
+      <a href="https://codepen.io/pen?template=abYZKmR">
+        <img src="https://img.shields.io/badge/🧠-Memory%20Match-FFCA3A?style=for-the-badge&logo=gamepad&logoColor=white" alt="Memory Game"/>
       </a>
-      <br><sub>Train your memory!</sub>
+      <br><sub><b>Test your memory skills!</b></sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://hangman.chagpt.hu/?name=amineadded">
-        <img src="https://img.shields.io/badge/🎯-Hangman-FF595E?style=for-the-badge" alt="Hangman"/>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://codepen.io/pen?template=rNqwxYP">
+        <img src="https://img.shields.io/badge/🔢-Number%20Guess-FF595E?style=for-the-badge&logo=gamepad&logoColor=white" alt="Guess Number"/>
       </a>
-      <br><sub>Word challenge!</sub>
+      <br><sub><b>Can you guess the number?</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://codepen.io/pen?template=ZEPwXKm">
+        <img src="https://img.shields.io/badge/⚡-Reaction%20Test-9D4EDD?style=for-the-badge&logo=gamepad&logoColor=white" alt="Reaction Test"/>
+      </a>
+      <br><sub><b>How fast are your reflexes?</b></sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-**🏆 Think you can beat me? Click on any game above and let's play!**
+**🏆 Challenge yourself with these fun games! Click any badge to start playing!**
+
+<sub>💡 Tip: These games are hosted on CodePen and fully functional. Fork them to customize!</sub>
 
 </div>
 
