@@ -211,27 +211,33 @@ Coming soon! I'm working on exciting projects that will be showcased here.
 ---
 ## 🎮 Interactive Games - Play Now!
 
-<div align="center">
-
-### 🎯 Click to Play These Interactive Games!
-
+     <div align="center">
+🎯 Click to Play These Interactive Games!
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://amineadded.github.io/games/rock-paper-scissors.html">
+      <a href="https://amineadded.github.io/games/rock-paper-scissors.html" target="_blank">
         <img src="https://img.shields.io/badge/🪨📄✂️-Rock%20Paper%20Scissors-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Rock Paper Scissors"/>
       </a>
-      <br><sub><b>Play the classic hand game!</b></sub>
+      <br><br>
+      <sub><b>⚔️ Challenge Mode</b></sub>
+      <br>
+      <sub>Play the classic hand game!</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://amineadded.github.io/games/tic-tac-toe.html">
+      <a href="https://amineadded.github.io/games/tic-tac-toe.html" target="_blank">
         <img src="https://img.shields.io/badge/⭕❌-Tic%20Tac%20Toe-4ECDC4?style=for-the-badge&logo=gamepad&logoColor=white" alt="Tic Tac Toe"/>
       </a>
-      <br><sub><b>Strategic 3x3 grid game!</b></sub>
+      <br><br>
+      <sub><b>🎯 Strategic Battle</b></sub>
+      <br>
+      <sub>Master the 3x3 grid!</sub>
     </td>
   </tr>
 </table>
-
+<br>
+🏆 All games feature elegant design, smooth animations, and addictive gameplay!
+<sub>💡 Built with pure HTML, CSS, and JavaScript | Fully responsive | No dependencies</sub>
 </div>
 
 ---
