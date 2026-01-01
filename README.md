@@ -209,7 +209,6 @@ Coming soon! I'm working on exciting projects that will be showcased here.
 </div>
 
 ---
-
 ## 🎮 Interactive Games - Play Now!
 
 <div align="center">
@@ -219,53 +218,19 @@ Coming soon! I'm working on exciting projects that will be showcased here.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://codepen.io/pen?template=xxQZdzP">
+      <a href="https://amineadded.github.io/games/rock-paper-scissors.html">
         <img src="https://img.shields.io/badge/🪨📄✂️-Rock%20Paper%20Scissors-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Rock Paper Scissors"/>
       </a>
       <br><sub><b>Play the classic hand game!</b></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://codepen.io/pen?template=MWRaZeP">
+      <a href="https://amineadded.github.io/games/tic-tac-toe.html">
         <img src="https://img.shields.io/badge/⭕❌-Tic%20Tac%20Toe-4ECDC4?style=for-the-badge&logo=gamepad&logoColor=white" alt="Tic Tac Toe"/>
       </a>
       <br><sub><b>Strategic 3x3 grid game!</b></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://codepen.io/pen?template=KKOqReN">
-        <img src="https://img.shields.io/badge/🐍-Snake%20Game-8AC926?style=for-the-badge&logo=gamepad&logoColor=white" alt="Snake Game"/>
-      </a>
-      <br><sub><b>Classic arcade snake!</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://codepen.io/pen?template=abYZKmR">
-        <img src="https://img.shields.io/badge/🧠-Memory%20Match-FFCA3A?style=for-the-badge&logo=gamepad&logoColor=white" alt="Memory Game"/>
-      </a>
-      <br><sub><b>Test your memory skills!</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://codepen.io/pen?template=rNqwxYP">
-        <img src="https://img.shields.io/badge/🔢-Number%20Guess-FF595E?style=for-the-badge&logo=gamepad&logoColor=white" alt="Guess Number"/>
-      </a>
-      <br><sub><b>Can you guess the number?</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://codepen.io/pen?template=ZEPwXKm">
-        <img src="https://img.shields.io/badge/⚡-Reaction%20Test-9D4EDD?style=for-the-badge&logo=gamepad&logoColor=white" alt="Reaction Test"/>
-      </a>
-      <br><sub><b>How fast are your reflexes?</b></sub>
-    </td>
-  </tr>
 </table>
-
-<br>
-
-**🏆 Challenge yourself with these fun games! Click any badge to start playing!**
-
-<sub>💡 Tip: These games are hosted on CodePen and fully functional. Fork them to customize!</sub>
 
 </div>
 
